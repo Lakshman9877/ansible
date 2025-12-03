@@ -1,5 +1,5 @@
 - name: ping the node
-  host: mongodb
+  hosts: mongodb
   #this is list of tasks/modules/collections
   tasks:
   - name: ping the server
