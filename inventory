@@ -1,3 +1,7 @@
 [mongodb]
 172.31.73.114
 172.31.78.203
+
+[mongodb:vars]
+MONGO_USERNAME=mongodbadmin
+MONGO-DB=categories
