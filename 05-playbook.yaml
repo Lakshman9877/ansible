@@ -9,5 +9,5 @@
     ansible.builtin.debug:
      msg: "Hello i am learning devops" 
   - name: print in variables
-    ansible.builtin.debug
+    ansible.builtin.debug:
     msg: "i am learning {{COURSE}}, trainer is {{TRAINER}}, duration is {{DURATION}}"   
