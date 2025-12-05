@@ -1,5 +1,5 @@
 - name: install packages
-  hosts: mogodb
+  hosts: mongodb
   become: yes
   tasks:
   - name: install packages
@@ -9,4 +9,3 @@
     loop:
     - nginx
     - postfix
-     
