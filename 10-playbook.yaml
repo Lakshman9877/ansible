@@ -3,5 +3,5 @@
   tasks:
   - name: print variables from commandline
     ansible.builtin.debug:
-     msg: "the value of variable course is {{COURSE}}"
-     
+     msg: "the value of variable course is {{course}}"
+
