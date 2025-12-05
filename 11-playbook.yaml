@@ -5,9 +5,10 @@
   - NAME: "raj" #string
   - isDevops: true  #Boolean
   - Skills:
-   - Devops
-   - AWS
-   - Docker
+    - Devops
+    - AWS
+    - Docker
+
   - Experience:
     Devops: 7
     AWS: 5
