@@ -4,12 +4,12 @@
   - age: 30  #Number
   - NAME: "raj" #string
   - isDevops: true  #Boolean
-  - Skills:
+  - Skills: #List
     - Devops
     - AWS
     - Docker
 
-  - Experience:
+  - Experience: #Map
       Devops: 7
       AWS: 5
       Docler: 4
